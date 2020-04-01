@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="easytools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/easytools_jar</output-path>
+    <root id="root">
+      <element id="archive" name="easytools.jar">
+        <element id="module-output" name="easytools" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../jar/fastjson-1.2.8.jar" />
+      <element id="library" level="project" name="json-20190722 " />
+    </root>
+  </artifact>
+</component>
